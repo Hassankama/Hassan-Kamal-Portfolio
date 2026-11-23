@@ -26,4 +26,4 @@ Open `index.html` in a browser. The project uses Google Fonts and Lucide icons f
 - [LinkedIn](https://www.linkedin.com/in/hassankamal-/)
 - [GitHub](https://github.com/Hassankama)
 
-Add the personal portrait at `assets/profile.jpg`.
+The personal portrait is included at `assets/profile.webp`.
